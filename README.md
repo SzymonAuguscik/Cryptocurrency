@@ -6,10 +6,10 @@ phenomena presented in video and "invent" my own cryptocurrency named after one 
 Main object in simulation. It consists of participants, transactions and
 ledgers. Initial data is created automatically.
 ### Ledger
-List of transactions. It stores all transaction authorized in certain time
+List of transactions. It stores all transactions authorized in certain time
 and is secured with 256-SHA sign depending on ledger's body.
 ### Transaction
-Registered cash flow between two participants. It must be signed by sender.
+Registered cash flow between two participants. It must be signed by a sender.
 ### Participant
 A trader. Everyone can send and get limited amount of money but being
 in the red is forbidden.
