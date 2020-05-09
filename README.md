@@ -17,4 +17,6 @@ in the red is forbidden.
 ### Using existing market
 java -jar Geraltium.jar
 ### Using new market
-download repo  run "main()" in Market class  create a JAR file
+download repo  
+run "main()" in Market class  
+create a JAR file
